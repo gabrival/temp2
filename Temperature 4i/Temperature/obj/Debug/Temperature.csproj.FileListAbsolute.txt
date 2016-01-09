@@ -56,3 +56,6 @@ C:\Users\gabriella\temp2\Temperature 4i\Temperature\obj\Debug\Temperature.Proper
 C:\Users\gabriella\temp2\Temperature 4i\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
 C:\Users\gabriella\temp2\Temperature 4i\Temperature\obj\Debug\Temperature.exe
 C:\Users\gabriella\temp2\Temperature 4i\Temperature\obj\Debug\Temperature.pdb
+C:\Users\gabriella\temp22\Temperature 4i\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\gabriella\temp22\Temperature 4i\Temperature\obj\Debug\Temperature.exe
+C:\Users\gabriella\temp22\Temperature 4i\Temperature\obj\Debug\Temperature.pdb
