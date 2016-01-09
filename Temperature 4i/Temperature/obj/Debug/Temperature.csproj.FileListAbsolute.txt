@@ -1,0 +1,45 @@
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\bin\Debug\Temperature.exe.config
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\bin\Debug\Temperature.exe
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\bin\Debug\Temperature.pdb
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\MainWindow.baml
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\MainWindow.g.cs
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\App.g.cs
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.cache
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature.g.resources
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature.exe
+c:\users\lorenzo.dichiara\documents\visual studio 2013\Projects\Temperature\Temperature\obj\Debug\Temperature.pdb
+Z:\INFORMATICA\Temperature\Temperature\bin\Debug\Temperature.exe.config
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.exe
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.pdb
+Z:\INFORMATICA\Temperature\Temperature\bin\Debug\Temperature.exe
+Z:\INFORMATICA\Temperature\Temperature\bin\Debug\Temperature.pdb
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\MainWindow.baml
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\MainWindow.g.cs
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\App.g.cs
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.cache
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.g.resources
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+Z:\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\bin\Debug\Temperature.exe.config
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.exe
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.pdb
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\bin\Debug\Temperature.exe
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\bin\Debug\Temperature.pdb
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\MainWindow.baml
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\MainWindow.g.cs
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\App.g.cs
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature_MarkupCompile.cache
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.g.resources
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+X:\4I\dichiara.lorenzo\INFORMATICA\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+D:\4i\Temperature di chiara\Temperature\bin\Debug\Temperature.exe.config
+D:\4i\Temperature di chiara\Temperature\obj\Debug\Temperature.exe
+D:\4i\Temperature di chiara\Temperature\obj\Debug\Temperature.pdb
+Z:\Temperature 4i\Temperature\bin\Debug\Temperature.exe.config
+Z:\Temperature 4i\Temperature\obj\Debug\Temperature.exe
+Z:\Temperature 4i\Temperature\obj\Debug\Temperature.pdb
