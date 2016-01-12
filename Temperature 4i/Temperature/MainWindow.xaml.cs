@@ -22,6 +22,7 @@ namespace Temperature
     {
         public static class ConvertiT
         {
+            // commento gabrival2 10011656
             public static double ToCelsius(double t, int i)
             {
                 double Temp;
