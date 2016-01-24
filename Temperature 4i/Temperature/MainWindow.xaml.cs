@@ -63,7 +63,8 @@ namespace Temperature
         private void btn_convert_Click(object sender, RoutedEventArgs e)
         {
             double TempConv;
-            double t = double.Parse(txt_1.Text);
+            //sono il branch itaer1
+            double tttt = double.Parse(txt_1.Text);
             if (cmb_2.SelectedIndex == 0)
                 TempConv = ConvertiT.ToCelsius(t, cmb_1.SelectedIndex);
             else if (cmb_2.SelectedIndex == 1)
